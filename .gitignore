@@ -1,0 +1,4 @@
+#This are not requires to be shown in the repository, so we ignore them
+ 
+.venv/
+__pycache__/
